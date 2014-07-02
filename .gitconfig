@@ -1,3 +1,7 @@
+[user]
+ name = Binh Nguyen
+ email = ngbinh@gmail.com
+ 
 [color]
  ui = true
  branch = auto
